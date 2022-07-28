@@ -1,0 +1,28 @@
+com/example/uts/Activity5.java
+ com.example.uts.Activity5
+ com.example.uts.Activity5$1
+com/example/uts/Activity7.java
+ com.example.uts.Activity7
+com/example/uts/Activity2.java
+ com.example.uts.Activity2
+com/example/uts/Activity6.java
+ com.example.uts.Activity6
+ com.example.uts.Activity6$1
+com/example/uts/Recycleview_Adapter.java
+ com.example.uts.Recycleview_Adapter
+ com.example.uts.Recycleview_Adapter$1
+ com.example.uts.Recycleview_Adapter$viewHolder
+com/example/uts/MainActivity.java
+ com.example.uts.MainActivity
+ com.example.uts.MainActivity$1
+ com.example.uts.MainActivity$2
+ com.example.uts.MainActivity$3
+ com.example.uts.MainActivity$4
+com/example/uts/Activity3.java
+ com.example.uts.Activity3
+com/example/uts/BuildConfig.java
+ com.example.uts.BuildConfig
+com/example/uts/Activity4.java
+ com.example.uts.Activity4
+com/example/uts/Activity8.java
+ com.example.uts.Activity8
